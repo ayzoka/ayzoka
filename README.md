@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sajjad Hashemian
 - 👀 I’m interested in Theorical stuff, from CS to Mathematics
 - 🌱 I’m currently learning "Computational Complexity"
-- 💞️ I’m looking to collaborate on "Algorithms & complexity" and/or "Economics & computation" projects. 
+- 💞️ I’m looking to collaborate on "Data Science Theory" and/or "Algorithms & complexity" projects. 
 - 📫 How to reach me : contact [the famous at sign] sajjadhashemian.ir
 
 <!---
